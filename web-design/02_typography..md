@@ -57,16 +57,12 @@
     [![Video](https://img.youtube.com/vi/aKXoKHj-EMo/0.jpg)](https://www.youtube.com/watch?v=aKXoKHj-EMo)
 
 ## 🔧 Instructions
-- If you don't have an account on [freecodecamp](https://www.freecodecamp.org), please create one and familiarize yourself with the platform.
-Then complete all the challenges provided in the excerises section below and submit your work.
+- If you don't have an account on [Figma](https://www.figma.com), please create one and familiarize yourself with the platform.
+Also, you can download the [desktop app](https://www.figma.com/downloads/) for better experience.
 
 ## 🚀 Excersises
 Please complete the following excersises:
 - Create your first typography project using Figma.
-
-## 🔧 Instructions
-- If you don't have an account on [Figma](https://www.figma.com), please create one and familiarize yourself with the platform.
-Also, you can download the [desktop app](https://www.figma.com/downloads/) for better experience.
 
 <details>
     <summary>

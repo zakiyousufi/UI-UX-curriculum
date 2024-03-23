@@ -28,8 +28,8 @@ _Check the curriculum overview below to see the topics covered in this curriculu
 
 - [ ] [Introduction to Web Design](./web-design/01_web-design-concepts.md).
 - [ ] [Typography]().
-- [ ] [Color Theory]().
-- [ ] [Figma Basics]().
+- [ ] [Color Theory](./web-design/04_color_theory.md).
+- [ ] [Figma Basics](./web-design/03_getting_started_with_Figma.md).
 - [ ] [Design UI Elements in Figma & Responsive Design Basics]().
 - [ ] [Prototyping, Interactions, and Collaborative Design]().
 - [ ] [ Projects ]().
