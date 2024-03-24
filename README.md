@@ -57,7 +57,19 @@ _Check the curriculum overview below to see the topics covered in this curriculu
     <details>
 
     - [ ] [Creating Style](./web-design/06_Figma_styling.md).
-    - [ ] []
+    - [ ] [Create Your Design In Figma Part 3](./web-design/15_Create_Your_Design_In_Figma_part_3.md).
+    - [ ] [Design Features in Figma Part 3](./web-design/10_design_features_in_figma_part_3.md).
+
+    </details>
+    <h5>Week Six</h5>
+    <details>
+
+    - [ ] [Prototyping Part 1](./web-design/16_prototyping_part_1.md).
+    - [ ] [Prototyping Part 2](./web-design/17_prototyping_part_2.md).
+    - [ ] [Project](./web-design/18_project_4.md).
+    </details>
+    <h5>Week Seven</h5>
+    <details>
 
     </details>
 - [ ] [Responsive Web Design](). 
