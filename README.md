@@ -48,7 +48,17 @@ _Check the curriculum overview below to see the topics covered in this curriculu
     </details>
     <h5>Week Four</h5>
     <details>
-    
+
+    - [ ] [Create Your Design In Figma](./web-design/12_Create_Your_Design_In_Figma_part_1.md).
+    - [ ] [Create Your Design In Figma Part 2](./web-design/13_Create_Your_Design_In_Figma_part_2.md).
+    - [ ] [Project](./web-design/14_project_3.md).
+    </details>
+    <h5>Week Five</h5>
+    <details>
+
+    - [ ] [Creating Style](./web-design/06_Figma_styling.md).
+    - [ ] []
+
     </details>
 - [ ] [Responsive Web Design](). 
 </details>
