@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="../images/styling.webp" alt="Logo" height="170" align="center">
+    <img src="../images/design_features.webp" alt="Logo" height="170" align="center">
     <h1 align="center">Creating Style</h1>
 </div>
 
