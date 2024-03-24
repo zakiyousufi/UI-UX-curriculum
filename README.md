@@ -25,15 +25,30 @@ _Check the curriculum overview below to see the topics covered in this curriculu
         <h4>Responsive Web Design</h4>
     </summary>
     <hr style="height:1px;border-width:0;color:gray;background-color:dark">
+<h5>Week One</h5>
+<details>
 
 - [ ] [Introduction to Web Design](./web-design/01_web-design-concepts.md).
 - [ ] [Typography]().
 - [ ] [Color Theory](./web-design/04_color_theory.md).
+    </details>
+    <h5>Week two</h5>
+<details>
+
+- [ ] [Project](./web-design/07_project_1.md).
 - [ ] [Figma Basics](./web-design/03_getting_started_with_Figma.md).
-- [ ] [Design UI Elements in Figma & Responsive Design Basics]().
-- [ ] [Prototyping, Interactions, and Collaborative Design]().
-- [ ] [ Projects ]().
-- [ ] [Finalizing Figma Projects]().
-- [ ] [Responsive Design Principles]().
+- [ ] [Exploring Design Features in Figma](./web-design/08_design_features_in_figma_part_1.md).
+    </details>
+    <h5>Week Three</h5>
+<details>
+
+- [ ] [Exploring Design Features in Figma Part 2](./web-design/09_design_features_in_figma_part_2.md).
+- [ ] [Explore design features in Figma Part 3](./web-design/10_design_features_in_figma_part_3.md) 
+- [ ] [Projects](./web-design/11_project_2.md).
+    </details>
+    <h5>Week Four</h5>
+    <details>
+    
+    </details>
 - [ ] [Responsive Web Design](). 
 </details>
