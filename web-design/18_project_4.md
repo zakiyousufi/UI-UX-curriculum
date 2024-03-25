@@ -51,7 +51,7 @@
 - Use the Figma prototyping feature for the carousel and menu page. 
 
 >This is what your project should look like:
-<a href="../videos/project.mp4">View Demo</a>
+<a href="../videos/project.mp4" target="_blank">Project Video</a>
 
 ## 🔧 Instructions
 - If you don't have an account on [Figma](https://www.figma.com), please create one and familiarize yourself with the platform.
