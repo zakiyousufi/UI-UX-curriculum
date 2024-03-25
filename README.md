@@ -90,6 +90,10 @@ _Check the curriculum overview below to see the topics covered in this curriculu
     [Practical Projects](./web-design/23_practical_projects.md).
     </details>
     <br>
-    
-- [ ] [Responsive Web Design](). 
+
+    <h4>Fourth Month & Fifth Month</h4>
+    <details>
+
+    - [ ] [Responsive Web Design](). 
+    </details>
 </details>
