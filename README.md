@@ -25,6 +25,7 @@ _Check the curriculum overview below to see the topics covered in this curriculu
         <h4>Responsive Web Design</h4>
     </summary>
     <hr style="height:1px;border-width:0;color:gray;background-color:dark">
+    <h4>First Month</h4>
 <h5>Week One</h5>
 <details>
 
@@ -53,6 +54,8 @@ _Check the curriculum overview below to see the topics covered in this curriculu
     - [ ] [Create Your Design In Figma Part 2](./web-design/13_Create_Your_Design_In_Figma_part_2.md).
     - [ ] [Project](./web-design/14_project_3.md).
     </details>
+    <br>
+    <h4>Second Month</h4>
     <h5>Week Five</h5>
     <details>
 
@@ -70,7 +73,23 @@ _Check the curriculum overview below to see the topics covered in this curriculu
     </details>
     <h5>Week Seven</h5>
     <details>
-
+    
+    - [ ] [Prototyping Part 3](./web-design/19_prototyping_part_3.md).
+    - [ ] [Embeds](./web-design/20_embeds.md).
+    - [ ] [Prototyping Part 4](./web-design/21_prototyping_part_4.md).
     </details>
+    <h5>Week Eight</h5>
+    <details>
+
+    - [ ] [Web Design Full Course](./web-design/22_web_design_full_course.md).
+    </details>
+    <br>
+    <h4>Third Month</h4>
+    <details>
+
+    [Practical Projects](./web-design/23_practical_projects.md).
+    </details>
+    <br>
+    
 - [ ] [Responsive Web Design](). 
 </details>
