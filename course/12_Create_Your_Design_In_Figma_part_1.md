@@ -18,22 +18,22 @@
 - Using components in Figma can greatly speed up your design process and ensure consistency across your project. They are particularly useful when working on large-scale projects or collaborating with a team, as they promote efficient design workflows and easy updates.
 
 ## 📋 Prerequisites
-- [ ] [Introduction to web design](./01_web-design-concepts.md).
-- [ ] [Introduction to typography](./02_typography.md).
-- [ ] [Getting started with Figma](./03_getting_started_with_Figma.md).
-- [ ] [Color Theory](./04_color_theory.md).
-- [ ] [Selecting and pairing fonts](./05_fonts_and_colors.md).
-- [ ] [Creating Style](./06_Figma_styling.md).
-- [ ] [Design Features in Figma Part 1](./08_design_features_in_figma_part_1.md).
-- [ ] [Design Features in Figma Part 2](./09_design_features_in_figma_part_2.md).
-- [ ] [Design Features in Figma Part 3](./10_design_features_in_figma_part_3.md).
+- [Introduction to web design](./01_web-design-concepts.md).
+- [Introduction to typography](./02_typography.md).
+- [Getting started with Figma](./03_getting_started_with_Figma.md).
+- [Color Theory](./04_color_theory.md).
+- [Selecting and pairing fonts](./05_fonts_and_colors.md).
+- [Creating Style](./06_Figma_styling.md).
+- [Design Features in Figma Part 1](./08_design_features_in_figma_part_1.md).
+- [Design Features in Figma Part 2](./09_design_features_in_figma_part_2.md).
+- [Design Features in Figma Part 3](./10_design_features_in_figma_part_3.md).
 
 ## 🎯 Learning Objectives
-- [ ] Understand the concept of components in Figma.
-- [ ] Learn how to create and use components in Figma.
-- [ ] Explore the benefits of using components in design projects.
-- [ ] Learn how to create nested components and variants in Figma.
-- [ ] Practice creating and customizing components in Figma.
+- Understand the concept of components in Figma.
+- Learn how to create and use components in Figma.
+- Explore the benefits of using components in design projects.
+- Learn how to create nested components and variants in Figma.
+- Practice creating and customizing components in Figma.
 
 ## 📹 Video
 
@@ -44,8 +44,6 @@
     
     - <a href="https://www.youtube.com/watch?v=k74IrUNaJVk&list=PLXDU_eVOJTx5LSjOmeBYMuvaa4UayfMe4" target="_blank">Components Basics in Figma</a>
 
-    [![Video](https://img.youtube.com/vi/k74IrUNaJVk/0.jpg)](https://www.youtube.com/watch?v=k74IrUNaJVk&list=PLXDU_eVOJTx5LSjOmeBYMuvaa4UayfMe4)
-
 <br>
 
 **How to organize your components in Figma**
@@ -53,16 +51,12 @@
 
     - <a href="https://www.youtube.com/watch?v=FFXNLmt-JY4&list=PLXDU_eVOJTx5LSjOmeBYMuvaa4UayfMe4&index=2" target="_blank">How to organize your components in Figma</a>
 
-    [![Video](https://img.youtube.com/vi/FFXNLmt-JY4/0.jpg)](https://www.youtube.com/watch?v=FFXNLmt-JY4&list=PLXDU_eVOJTx5LSjOmeBYMuvaa4UayfMe4&index=2)
-
 <br>
 
 **Swapping and States in Figma**
 - Swapping and states in Figma allow you to create interactive and dynamic designs. By defining different states for your components, such as hover or pressed, you can simulate user interactions and animations. Swapping between states enables you to preview how your design will respond to user input, providing a more realistic and engaging experience. Figma's interactive features empower you to design prototypes that accurately reflect the final product, helping you communicate your ideas effectively and gather feedback from stakeholders.
 
     - <a href="https://www.youtube.com/watch?v=IHEh9HFBtFU&list=PLXDU_eVOJTx5LSjOmeBYMuvaa4UayfMe4&index=3" target="_blank">Swapping and States in Figma</a>
-
-    [![Video](https://img.youtube.com/vi/IHEh9HFBtFU/0.jpg)](https://www.youtube.com/watch?v=IHEh9HFBtFU&list=PLXDU_eVOJTx5LSjOmeBYMuvaa4UayfMe4&index=3)
 
     
 ## 🔧 Instructions
@@ -88,7 +82,3 @@
     <li><a href="https://www.youtube.com/watch?v=KnmxD8LvHmA" target="_blank">Everything you need to know about Figma Components</a></li>
     </ul>
 </details>
-
-------
-
-_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/Kick-StartDev/web-development-basic-curriculum/issues/new)_

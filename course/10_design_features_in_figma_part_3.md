@@ -7,17 +7,17 @@
 > Figma is a collaborative interface design tool that enables real-time collaboration, prototyping, and vector-based graphics creation for teams. In this section, you will learn how to use Figma to create design elements, apply styling, and create responsive designs.
 
 ## 📋 Prerequisites
-- [ ] [Introduction to web design](./01_web-design-concepts.md).
-- [ ] [Introduction to typography](./02_typography.md).
-- [ ] [Getting started with Figma](./03_getting_started_with_Figma.md).
-- [ ] [Color Theory](./04_color_theory.md).
-- [ ] [Selecting and pairing fonts](./05_fonts_and_colors.md).
-- [ ] [Creating Style](./06_Figma_styling.md).
-- [ ] [Design Features in Figma Part 1](./08_design_features_in_figma_part_1.md).
-- [ ] [Design Features in Figma Part 2](./09_design_features_in_figma_part_2.md).
+- [Introduction to web design](./01_web-design-concepts.md).
+- [Introduction to typography](./02_typography.md).
+- [Getting started with Figma](./03_getting_started_with_Figma.md).
+- [Color Theory](./04_color_theory.md).
+- [Selecting and pairing fonts](./05_fonts_and_colors.md).
+- [Creating Style](./06_Figma_styling.md).
+- [Design Features in Figma Part 1](./08_design_features_in_figma_part_1.md).
+- [Design Features in Figma Part 2](./09_design_features_in_figma_part_2.md).
 
 ## 🎯 Learning Objectives
-- [ ] What are Explore Design Features
+- What are Explore Design Features
 
 ## 📹 Video
 
@@ -40,8 +40,6 @@
 - In summary, exploring ideas in Figma involves creating mood boards, sketching and wireframing, prototyping, and collaborating with others. These activities empower designers to generate, refine, and validate their design concepts, leading to more successful and impactful designs. Figma's comprehensive set of features and collaborative capabilities make it an ideal platform for exploring ideas and bringing them to life.
 
 <a href="https://www.youtube.com/watch?v=dXQ7IHkTiMM&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=2" target="_blank">Explore Design Features in Figma</a>
-
-[![Video](https://img.youtube.com/vi/dXQ7IHkTiMM/0.jpg)](https://www.youtube.com/watch?v=dXQ7IHkTiMM&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=2)
 
 ## 🔧 Instructions
 - If you don't have an account on [Figma](https://www.figma.com), please create one and familiarize yourself with the platform.
@@ -66,7 +64,3 @@
         <li><a href="https://www.youtube.com/watch?v=JJypv5NoVrI" target="_blank">Best Figma plagins</a></li>
     </ul>
 </details>
-
-------
-
-_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/Kick-StartDev/web-development-basic-curriculum/issues/new)_

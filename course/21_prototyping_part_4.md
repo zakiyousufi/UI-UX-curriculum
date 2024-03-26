@@ -7,28 +7,28 @@
 > Prototyping is an essential part of the design process. It allows you to test your ideas, gather feedback, and refine your designs before you start coding. In this section, you will learn how to create interactive prototypes using Figma. You will learn how to create clickable prototypes, add animations, and create interactive forms. By the end of this section, you will have the skills to create high-fidelity prototypes that look and feel like real websites or apps.
 
 ## 📋 Prerequisites
-- [ ] [Introduction to Web Design](./web-design/01_web-design-concepts.md).
-- [ ] [Typography](./02_typography.md)
-- [ ] [Color Theory](./web-design/04_color_theory.md).
-- [ ] [Getting started with Figma](./web-design/03_getting_started_with_Figma.md).
-- [ ] [Selecting and pairing fonts](./web-design/05_fonts_and_colors.md).
-- [ ] [Creating Style](./web-design/06_Figma_styling.md).
-- [ ] [Design Features in Figma Part 1](./web-design/08_design_features_in_figma_part_1.md).
-- [ ] [Design Features in Figma Part 2](./web-design/09_design_features_in_figma_part_2.md).
-- [ ] [Design Features in Figma Part 3](./web-design/10_design_features_in_figma_part_3.md).
-- [ ] [Components](./web-design/12_Create_Your_Design_In_Figma_part_1.md).
-- [ ] [Components Part 2](./web-design/13_Create_Your_Design_In_Figma_part_2.md).
-- [ ] [Create Your Design In Figma](./web-design/15_Create_Your_Design_In_Figma_part_3.md).
-- [ ] [Prototyping](./web-design/16_prototyping_part_1.md).
-- [ ] [Transaction](./web-design/17_prototyping_part_2.md).
-- [ ] [Prototype While You Design](./web-design/19_prototyping_part_3.md).
-- [ ] [Embeds](./web-design/20_embeds.md).
+- [Introduction to Web Design](./web-design/01_web-design-concepts.md).
+- [Typography](./02_typography.md)
+- [Color Theory](./web-design/04_color_theory.md).
+- [Getting started with Figma](./web-design/03_getting_started_with_Figma.md).
+- [Selecting and pairing fonts](./web-design/05_fonts_and_colors.md).
+- [Creating Style](./web-design/06_Figma_styling.md).
+- [Design Features in Figma Part 1](./web-design/08_design_features_in_figma_part_1.md).
+- [Design Features in Figma Part 2](./web-design/09_design_features_in_figma_part_2.md).
+- [Design Features in Figma Part 3](./web-design/10_design_features_in_figma_part_3.md).
+- [Components](./web-design/12_Create_Your_Design_In_Figma_part_1.md).
+- [Components Part 2](./web-design/13_Create_Your_Design_In_Figma_part_2.md).
+- [Create Your Design In Figma](./web-design/15_Create_Your_Design_In_Figma_part_3.md).
+- [Prototyping](./web-design/16_prototyping_part_1.md).
+- [Transaction](./web-design/17_prototyping_part_2.md).
+- [Prototype While You Design](./web-design/19_prototyping_part_3.md).
+- [Embeds](./web-design/20_embeds.md).
 
 ## 🎯 Learning Objectives
-- [ ] Prototype while you design.
-- [ ] Create interactive prototypes.    
-- [ ] Add animations to your prototypes.
-- [ ] Prepare for Handoff 
+- Prototype while you design.
+- Create interactive prototypes.    
+- Add animations to your prototypes.
+- Prepare for Handoff 
 
 
 ## 📹 Video
@@ -73,7 +73,3 @@
     <li><a href="https://www.youtube.com/watch?v=Vx8jyVTazew" target="_blank">How to Put Prototype Video in Device Mockup</a></li>
     </ul>
 </details>
-
-------
-
-_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/Kick-StartDev/web-development-basic-curriculum/issues/new)_

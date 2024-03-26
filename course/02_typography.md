@@ -3,19 +3,18 @@
     <h1 align="center">Typography</h1>
 </div>
 
-#### 🕒 Estimated time: 8 h
 ## 📝 Description
 > Typography is the art and technique of arranging type to make written language legible, readable, and appealing when displayed. The arrangement of type involves selecting typefaces, point sizes, line lengths, line-spacing (leading), and letter-spacing (tracking), and adjusting the space between pairs of letters (kerning). Typography also includes the use of color, images, and other visual elements to enhance the appearance and readability of text.
 
 
 ## 📋 Prerequisites
-- [ ] [Introduction to web design](./01_web-design-concepts.md).
+- [Introduction to web design](./01_web-design-concepts.md).
 
 ## 🎯 Learning Objectives
-- [ ] Understand the principles of typography and its role in visual communication.
-- [ ] Learn how to select appropriate typefaces for different design contexts.
-- [ ] Explore techniques for effective typography hierarchy and readability.
-- [ ] Gain knowledge of typographic terminology and best practices for spacing and alignment.
+- Understand the principles of typography and its role in visual communication.
+- Learn how to select appropriate typefaces for different design contexts.
+- Explore techniques for effective typography hierarchy and readability.
+- Gain knowledge of typographic terminology and best practices for spacing and alignment.
 
 ## 📹 Video
 
@@ -27,7 +26,6 @@
     - <a href="https://www.youtube.com/watch?v=yAuUDyUC-GM"
     target="_blank">The Ultimate Guide to Typography</a>
 
-    [![Video](https://img.youtube.com/vi/yAuUDyUC-GM/0.jpg)](https://www.youtube.com/watch?v=yAuUDyUC-GM)
     <br>
 
     **How to choose fonts**
@@ -41,28 +39,22 @@
 
     <a href="https://www.youtube.com/watch?v=WTUM2Y11oJo" target="_blank">How to choose fonts</a>
 
-    [![Video](https://img.youtube.com/vi/WTUM2Y11oJo/0.jpg)](https://www.youtube.com/watch?v=WTUM2Y11oJo)
-
     <br>
 
     **Typographic Scales**
     <a href="https://www.youtube.com/watch?v=ot-5dQG2v5M" target="_blank">Typographic Scales in Web Design & UI Design</a>
-
-    [![Video](https://img.youtube.com/vi/ot-5dQG2v5M/0.jpg)](https://www.youtube.com/watch?v=ot-5dQG2v5M)
     <br>
 
     **Text Alignment**
-    <a href="https://www.youtube.com/watch?v=aKXoKHj-EMo" target="_blank">Text Alignment in Web Design</a>
-
-    [![Video](https://img.youtube.com/vi/aKXoKHj-EMo/0.jpg)](https://www.youtube.com/watch?v=aKXoKHj-EMo)
+    <a href="https://www.youtube.com/watch?v=aKXoKHj-EMo" target="_blank">Text Alignment</a>
 
 ## 🔧 Instructions
 - If you don't have an account on [Figma](https://www.figma.com), please create one and familiarize yourself with the platform.
 Also, you can download the [desktop app](https://www.figma.com/downloads/) for better experience.
 
 ## 🚀 Excersises
-Please complete the following excersises:
-- Create your first typography project using Figma.
+- Please complete the following excersises:
+    - [ ] Create your first typography project using Figma.
 
 <details>
     <summary>
@@ -79,7 +71,3 @@ Please complete the following excersises:
         <li><a href="https://www.1001freefonts.com/" target="_blank">1001 Free Fonts</a></li>
     </ul>
 </details>
-
-------
-
-_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/Kick-StartDev/web-development-basic-curriculum/issues/new)_

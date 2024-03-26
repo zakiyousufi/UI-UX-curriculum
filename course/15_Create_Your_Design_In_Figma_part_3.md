@@ -7,33 +7,27 @@
 > In Figma, "Components" refer to reusable design elements that can be used throughout your project. They are like building blocks that allow you to create consistent and efficient designs.
 
 ## 📋 Prerequisites
-- [ ] [Introduction to web design](./01_web-design-concepts.md).
-- [ ] [Introduction to typography](./02_typography.md).
-- [ ] [Getting started with Figma](./03_getting_started_with_Figma.md).
-- [ ] [Color Theory](./04_color_theory.md).
-- [ ] [Selecting and pairing fonts](./05_fonts_and_colors.md).
-- [ ] [Creating Style](./06_Figma_styling.md).
-- [ ] [Design Features in Figma Part 1](./08_design_features_in_figma_part_1.md).
-- [ ] [Design Features in Figma Part 2](./09_design_features_in_figma_part_2.md).
-- [ ] [Design Features in Figma Part 3](./10_design_features_in_figma_part_3.md).
-- [ ] [Components](./12_Create_Your_Design_In_Figma_part_1.md).
-- [ ] [Components Part 2](./13_Create_Your_Design_In_Figma_part_2.md).
+- [Introduction to web design](./01_web-design-concepts.md).
+- [Introduction to typography](./02_typography.md).
+- [Getting started with Figma](./03_getting_started_with_Figma.md).
+- [Color Theory](./04_color_theory.md).
+- [Selecting and pairing fonts](./05_fonts_and_colors.md).
+- [Creating Style](./06_Figma_styling.md).
+- [Design Features in Figma Part 1](./08_design_features_in_figma_part_1.md).
+- [Design Features in Figma Part 2](./09_design_features_in_figma_part_2.md).
+- [Design Features in Figma Part 3](./10_design_features_in_figma_part_3.md).
+- [Components](./12_Create_Your_Design_In_Figma_part_1.md).
+- [Components Part 2](./13_Create_Your_Design_In_Figma_part_2.md).
 
 ## 🎯 Learning Objectives
-- [ ] What is Create design in Figma.
+- What is Create design in Figma.
 
 ## 📹 Video
 
 - Please watch the following videos:
     - <a href="https://www.youtube.com/watch?v=wvFd-z7jSaA&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=3" target="_blank">Create Your Design In Figma</a>
 
-    [![Video](https://img.youtube.com/vi/wvFd-z7jSaA/0.jpg)](https://www.youtube.com/watch?v=wvFd-z7jSaA&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=3)
-
-    <br>
-
-    - <a href="https://www.youtube.com/watch?v=JGLfyTDgfDc" target="_blank">Create Your Design In Figma Part</a>
-
-    [![Video](https://img.youtube.com/vi/JGLfyTDgfDc/0.jpg)](https://www.youtube.com/watch?v=JGLfyTDgfDc)
+    - <a href="https://www.youtube.com/watch?v=JGLfyTDgfDc" target="_blank">Create Your Design In Figma part 2</a>
 
 ## 🔧 Instructions
 - If you don't have an account on [Figma](https://www.figma.com), please create one and familiarize yourself with the platform.
@@ -45,7 +39,6 @@
 
 ## 📫 Submittion
 - This activity does not require submission.
-
 <br>
 
 <details>
@@ -62,7 +55,3 @@
     <li><a href="https://www.youtube.com/watch?v=KnmxD8LvHmA" target="_blank">Everything you need to know about Figma Components</a></li>
     </ul>
 </details>
-
-------
-
-_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/Kick-StartDev/web-development-basic-curriculum/issues/new)_

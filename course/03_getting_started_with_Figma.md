@@ -3,49 +3,39 @@
     <h1 align="center">Getting started with Figma</h1>
 </div>
 
-#### 🕒 Estimated time: 8 h
+
 ## 📝 Description
-> Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration. Figma is free to use. Figma is a vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows. The Figma Mirror companion apps for Android and iOS allow viewing Figma prototypes on mobile devices. The feature set of Figma focuses on use in user interface and user experience design, with an emphasis on real-time collaboration.
-
-
+> Get started with Figma, a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration. Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration.
 ## 📋 Prerequisites
-- [ ] [Introduction to web design](./01_web-design-concepts.md).
+- [Introduction to web design](./01_web-design-concepts.md).
 
-- [ ] [Introduction to typography](./02_typography.md).
+- [Introduction to typography](./02_typography.md).
 
 ## 🎯 Learning Objectives
-- [ ] Understand the basic structure of Figma.
-- [ ] Basic understanding of Figma tools.
-- [ ] Basic understanding of Figma features.
+- Understand the basic structure of Figma.
+- Basic understanding of Figma tools.
+- Basic understanding of Figma features.
 
 ## 📹 Video
 
 - Please watch the following videos:
-    <br>
+
     **What's Figma?**
-    -Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration.
+    - Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration. Figma is free to use. Figma is a vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows. The Figma Mirror companion apps for Android and iOS allow viewing Figma prototypes on mobile devices. The feature set of Figma focuses on use in user interface and user experience design, with an emphasis on real-time collaboration.
+
 
     - <a href="https://www.youtube.com/watch?v=Cx2dkpBxst8&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4"
     target="_blank">What's Figma?</a>
-
-    [![Video](https://img.youtube.com/vi/Cx2dkpBxst8/0.jpg)](https://www.youtube.com/watch?v=Cx2dkpBxst8&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4)
-
-    <br>
+<br>
     **Figma Shape tools**
     - The shape tool is used to create rectangles, circles, and polygons. It is located in the toolbar on the left side of the Figma interface.
 
     - <a href="https://www.youtube.com/watch?v=gnscqweM_NU&list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23" target="_blank">Figma Shape tools</a>
-
-    [![Video](https://img.youtube.com/vi/gnscqweM_NU/0.jpg)](https://www.youtube.com/watch?v=gnscqweM_NU&list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23)
-
-    <br>
-
+<br>
     **Pen tool & Vector Networks**
     - The pen tool is used to create custom shapes and paths in Figma. It is located in the toolbar on the left side of the Figma interface.
 
     <a href="https://www.youtube.com/watch?v=5x2uHUB_pzw&list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23&index=2" target="_blank">Pen tool & Vector Networks</a>
-
-    [![Video](https://img.youtube.com/vi/5x2uHUB_pzw/0.jpg)](https://www.youtube.com/watch?v=5x2uHUB_pzw&list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23&index=2)
 
     <br>
 
@@ -53,8 +43,6 @@
     - Auto Layout is a feature in Figma that allows you to create responsive designs by automatically adjusting the layout of your elements based on the content inside them.
 
     <a href="https://www.youtube.com/watch?v=floQKLsWAy4" target="_blank">Auto Layout</a>
-
-    [![Video](https://img.youtube.com/vi/floQKLsWAy4/0.jpg)](https://www.youtube.com/watch?v=floQKLsWAy4)
 
     ## 🔧 Instructions
 - If you don't have an account on [Figma](https://www.figma.com), please create one and familiarize yourself with the platform.
@@ -84,7 +72,3 @@ Also, you can download the [desktop app](https://www.figma.com/downloads/) for b
 S</li>
     </ul>
 </details>
-
-------
-
-_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/Kick-StartDev/web-development-basic-curriculum/issues/new)_

@@ -1,9 +1,8 @@
 <div align="center">
     <img src="../images/web-design.jpg" alt="Logo" height="170" align="center">
-    <h1 align="center">Web Design</h1>
+    <h1 align="center">Web Design Concepts</h1>
 </div>
 
-#### 🕒 Estimated time: 8 h
 ## 📝 Description
 > Web design refers to the process of creating the visual appearance and layout of websites. It involves a combination of graphic design, user interface (UI) design, and user experience (UX) design principles to produce a website that is visually appealing, functional, and easy to use
 **Layout**: The arrangement of text, images, and other elements on a webpage.
@@ -18,11 +17,11 @@ Effective web design requires a balance between creativity and functionality, wi
 
 
 ## 🎯 Learning Objectives
-- [ ] Deffrents between web designer and web developer.
-- [ ] Understand fundamental web design concepts and principles.
-- [ ] Gain proficiency in using Figma for web design projects.
+- Deffrents between web designer and web developer.
+- Understand fundamental web design concepts and principles.
+- Gain proficiency in using Figma for web design projects.
 
-#### Deffrents between web designer and web developer
+#### Difference between web designer and web developer
 - Web designers are responsible for the visual aspects of a website, including layout, typography, color scheme, graphics, and images. They focus on creating a visually appealing and user-friendly design that aligns with the brand and objectives of the website.
 <br>
 
@@ -32,31 +31,24 @@ Effective web design requires a balance between creativity and functionality, wi
 - Please watch the following videos:
     - [Web designer and Web developer](https://www.youtube.com/watch?v=Ujc3yhN9E5Y)
 
-    [![Video](https://img.youtube.com/vi/Ujc3yhN9E5Y/0.jpg)](https://www.youtube.com/watch?v=Ujc3yhN9E5Y)
-
 #### Basic design principles
 - The basic design principles are fundamental concepts and guidelines that help designers create visually appealing and effective designs. These principles include balance, contrast, emphasis, rhythm, and unity, among others. Understanding and applying these principles can help designers create designs that are aesthetically pleasing, easy to understand, and engaging for users.
 <br>
 
 - Please watch the following videos:
     - [Basic design principles](https://www.youtube.com/watch?v=9EPTM91TBDU)
-    
-    [![Video](https://img.youtube.com/vi/9EPTM91TBDU/0.jpg)](https://www.youtube.com/watch?v=9EPTM91TBDU)
 
 #### Figma
 - Figma is a collaborative interface design tool that enables real-time collaboration, prototyping, and vector-based graphics creation for teams. It allows designers to create, share, and collaborate on designs with other team members, making it a popular choice for web design projects. Figma also offers features for prototyping and creating interactive designs, making it a versatile tool for web designers.
 
 - Please watch the following videos:
     - [Figma](https://www.youtube.com/watch?v=3q3FV65ZrUs)
-    
-    [![Video](https://img.youtube.com/vi/3q3FV65ZrUs/0.jpg)](https://www.youtube.com/watch?v=3q3FV65ZrUs)
+
 
 ## 🚀 Exercise
-- Create a Figma account and familiarize yourself with the platform by exploring its features and tools.
+- Please complete the following excersises:
+    - [ ] Create a Figma account and familiarize yourself with the platform by exploring its features and tools.
 
 ## 🔧 Instructions
 - If you don't have an account on [Figma](https://www.figma.com), please create one and familiarize yourself with the platform.
 Also, you can download the [desktop app](https://www.figma.com/downloads/) for better experience.
-------
-
-_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/Kick-StartDev/web-development-basic-curriculum/issues/new)_
